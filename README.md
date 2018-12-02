@@ -21,7 +21,7 @@
 
 ## Introduction
 
-An lottery ethereum smart contract.
+An kickstarter campaign ethereum app built with React and Next.js using create-next-app.
 
 ## Built-With
 
