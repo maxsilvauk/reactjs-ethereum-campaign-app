@@ -6,7 +6,8 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/yarn-v1.10.1-green.svg" />
-    <img src="https://img.shields.io/badge/node-v8.0.0-green.svg" />
+    <img src="https://img.shields.io/badge/node-v9.8.0-green.svg" />
+    <img src="https://img.shields.io/badge/next-v7.0.2-green.svg" />
     <img src="https://img.shields.io/badge/solidity-v0.4.17-green.svg" />
     <img src="https://img.shields.io/badge/React-v16.6.3-green.svg" />
 </p>
