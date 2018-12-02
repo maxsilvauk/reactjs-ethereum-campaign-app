@@ -8,10 +8,9 @@ if (typeof window !== 'undefined' && typeof window.web3 !== 'undefined') {
     // The metamask seed phrase & the rinkeby network
     // we want to connect to.
     const provider = new Web3.providers.HttpProvider(
-        'add enforce fun spring curious tonight divorce minor before celery card trial',
         'https://rinkeby.infura.io/v3/835fef3984d746eb9ccd66dc5ef48254'
     );
-  web3 = new Web3(provider);
+    web3 = new Web3(provider);
 }
 
 export default web3;
